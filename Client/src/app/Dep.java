@@ -2,9 +2,9 @@ package app;
 
 public class Dep {
     
-    private Float toneladas = 0f;
-    private String nombre = "grande";
-    private int cerrado = 1;
+    private Float toneladas = 0f; //30 20 15
+    private String nombre = "";   //grande, mediano o chico
+    private String cerrado = "";  //Si o NO
     
     
     public Dep() {
